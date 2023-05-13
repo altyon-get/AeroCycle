@@ -9,6 +9,7 @@ The Aircraft Recycling Platform is a web application designed to connect aircraf
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Design](#design)
 
 ## Overview
 
@@ -63,4 +64,17 @@ cd frontend
 npm start
 ```
 3. Access the application in your web browser at http://localhost:3000.
+
+## Design
+
+- Figma Designs: [Link to Figma](https://www.figma.com/file/sv4Yzu31AyP4KIctiLT9WZ/AeroCycle?type=design&node-id=0-1&t=albwpPOuQvOZXXIG-0)
+
+Here are some screenshots of the project's design:
+
+![image](https://github.com/altyon-get/AeroCycle/assets/73048959/e353a4ed-38b9-477f-ad14-a603f93b979a)
+![image](https://github.com/altyon-get/AeroCycle/assets/73048959/eac37e16-7451-41c7-8f8f-bb191859f377)
+![image](https://github.com/altyon-get/AeroCycle/assets/73048959/e0bb3010-daf4-44a8-8cf4-76d3a66b35f7)
+
+
+
 
